@@ -1,5 +1,5 @@
 ---
-permalink: /CaffAndGraph/PrivacyPolicy/
+permalink: /caffandgraph/privacypolicy/
 title: "CaffAndGraph - Privacy Policy"
 # author_profile: true
 layout: single

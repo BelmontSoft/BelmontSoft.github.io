@@ -1,6 +1,6 @@
 ---
-permalink: /CaffAndGraph/
-title: "CaffAndGraph"
+permalink: /caffandgraph/
+title: "Caff & Graph"
 author_profile: true
 layout: single
 classes: wide
@@ -67,5 +67,5 @@ classes: wide
   </div>
 
   <div class="privacypolicydiv">
-  <span>Caff & Graph's privacy policy can be found <a href="/CaffAndGraph/privacypolicy">here.</a></span>
+  <span>Caff & Graph's privacy policy can be found <a href="/caffandgraph/privacypolicy">here.</a></span>
 </div>

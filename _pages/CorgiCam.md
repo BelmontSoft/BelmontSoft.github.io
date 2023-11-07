@@ -1,5 +1,5 @@
 ---
-permalink: /CorgiCam/
+permalink: /corgicam/
 title: "CorgiCam"
 author_profile: true
 layout: single
@@ -33,5 +33,5 @@ up for the perfect photo opportunity.</span></p>
   </div>
 
 <div class="privacypolicydiv">
-  <span>CorgiCam's privacy policy can be found <a href="/CorgiCam/privacypolicy">here.</a></span>
+  <span>CorgiCam's privacy policy can be found <a href="/corgicam/privacypolicy">here.</a></span>
 </div>

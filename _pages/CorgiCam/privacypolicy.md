@@ -1,5 +1,5 @@
 ---
-permalink: /CorgiCam/PrivacyPolicy/
+permalink: /corgicam/privacypolicy/
 title: "CorgiCam - Privacy Policy"
 # author_profile: true
 layout: single
