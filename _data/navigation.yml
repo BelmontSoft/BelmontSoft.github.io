@@ -1,9 +1,11 @@
 # main links
 main:
-  - title: "CorgiCam"
-    url: /corgicam/
   - title: "Caff & Graph"
     url: /caffandgraph/
+  - title: "CorgiCam"
+    url: /corgicam/
+  - title: "Unbarkable"
+    url: /unbarkable/
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"

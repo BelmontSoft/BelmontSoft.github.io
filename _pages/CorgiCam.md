@@ -24,7 +24,7 @@ up for the perfect photo opportunity.</span></p>
     <div class="tabs">
       <div class="tab">
         <input type="checkbox" id="chck1">
-        <label class="tab-label" for="chck1">1.0.0 | September 28, 2020</label>
+        <label class="tab-label" for="chck1"><span>1.0.0 | <i>September 28, 2020</i></span></label>
         <div class="tab-content">
           - Initial release on Google Play Store.
         </div>
