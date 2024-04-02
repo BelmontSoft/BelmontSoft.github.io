@@ -24,9 +24,19 @@ up for the perfect photo opportunity.</span></p>
     <div class="tabs">
       <div class="tab">
         <input type="checkbox" id="chck1">
-        <label class="tab-label" for="chck1"><span>1.0.0 | <i>September 28, 2020</i></span></label>
+        <label class="tab-label" for="chck1"><span>1.1.0 | <i>March 30, 2024</i></span></label>
         <div class="tab-content">
-          - Initial release on Google Play Store.
+          - Ads removed.<br>
+          - Focus ring added.<br>
+          - Buttons made easier to tap.<br>
+          - General camera improvements.
+        </div>
+      </div>
+      <div class="tab">
+        <input type="checkbox" id="chck2">
+        <label class="tab-label" for="chck2"><span>1.0.0 | <i>September 28, 2020</i></span></label>
+        <div class="tab-content">
+          - Initial release on the Google Play Store.
         </div>
       </div>
     </div>
