@@ -48,7 +48,17 @@ classes: wide
     <div class="tabs">
       <div class="tab">
         <input type="checkbox" id="chck1">
-        <label class="tab-label" for="chck1"><span>1.1.0 | <i>March 17, 2023</i></span></label>
+        <label class="tab-label" for="chck1"><span>1.1.1 | <i>April 5, 2024</i></span></label>
+        <div class="tab-content">
+          - Fixed broken drink notifications on devices running Android 13.<br>
+          - "My Custom Drinks" page: edit/delete buttons now hidden until a custom drink is selected.<br>
+          - Minor bugfixes.<br>
+        </div>
+      </div>
+    <div class="tabs">
+      <div class="tab">
+        <input type="checkbox" id="chck2">
+        <label class="tab-label" for="chck2"><span>1.1.0 | <i>March 17, 2023</i></span></label>
         <div class="tab-content">
           - New brands and drinks added.<br>
           - Instant coffee and espresso-based drinks added to calculator.<br>
@@ -57,8 +67,8 @@ classes: wide
         </div>
       </div>
       <div class="tab">
-        <input type="checkbox" id="chck2">
-        <label class="tab-label" for="chck2"><span>1.0.0 | <i>October 27, 2022</i></span></label>
+        <input type="checkbox" id="chck3">
+        <label class="tab-label" for="chck3"><span>1.0.0 | <i>October 27, 2022</i></span></label>
         <div class="tab-content">
           - Initial release on the Google Play Store.
         </div>
